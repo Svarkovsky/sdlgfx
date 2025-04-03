@@ -1,0 +1,17 @@
+==========
+Много шрифтов с скриншотами
+https://www.zap.org.au/projects/console-fonts-distributed/psftx-opensuse-15.2/index.html
+https://adeverteuil.github.io/linux-console-fonts-screenshots/
+
+https://www.dafont.com/
+
+https://fontsinuse.com/sets/15109/demoscene
+
+
+
+https://int10h.org/oldschool-pc-fonts/fontlist/?4#top
+==========
+
+
+
+otf2bdf -p 16 -r 96 -o output.bdf input.ttf  # -p — размер в пунктах, -r — DPI
