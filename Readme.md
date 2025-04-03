@@ -1,4 +1,4 @@
-```markdown
+
 # sdlgfx - A Simple Graphics Library for SDL2
 
 This library provides basic 2D graphics primitives for drawing in an SDL2 window.
@@ -422,4 +422,3 @@ printf("Pixel color at (50, 50): R=%d, G=%d, B=%d\n", red, green, blue);
 ## License
 
 This library is licensed under the MIT License. See the `LICENSE` file for more information.
-```
